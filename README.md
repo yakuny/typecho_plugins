@@ -8,15 +8,16 @@
 
 ---
 
-Plugins简介
+# Plugins简介
 
 1. [HelloWorld][4] </br>
    Typecho plugin demo
    
-2. 
+2. [Sitemap][5] </br>
 
 
 [1]: http://docs.typecho.org/phpcoding
 [2]: http://docs.typecho.org/plugins/plugins-help-1
 [3]: http://docs.typecho.org/plugins/hooks
 [4]: http://docs.typecho.org/plugins/hello-world
+[5]: https://github.com/bayunjiang/typecho-sitemap
